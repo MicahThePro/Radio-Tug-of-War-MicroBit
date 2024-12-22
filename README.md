@@ -1,24 +1,15 @@
+This game requires two BBC micro:bits. Both micro:bit v1.5 and micro:bit v2.21 are supported with this project.
 
-> Open this page at [https://micahthepro.github.io/radio-tug-of-war-microbit/](https://micahthepro.github.io/radio-tug-of-war-microbit/)
+How to Set Up:
 
-## Use as Extension
+Download the .hex file in the latest release and plug in both of your micro:bits into your computer.
+Copy the .hex file and paste it into the root of both micro:bits.
+Wait until both micro:bits are not flashing and both display a singular dot in the center of the screen.
 
-This repository can be added as an **extension** in MakeCode.
+How to Play:
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/micahthepro/radio-tug-of-war-microbit** and import
+Both players spam the A button to try to bring the dot over to their side. Every 5 button presses moves the dot one single LED.
+If the dot reaches all the way to the players' side, they win.
+The B button resets the game whether you're still playing or not.
 
-## Edit this project
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/micahthepro/radio-tug-of-war-microbit** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+ENJOY!
