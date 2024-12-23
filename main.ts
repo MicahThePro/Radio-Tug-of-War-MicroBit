@@ -28,7 +28,7 @@ input.onButtonPressed(Button.A, function () {
     if (pressed % 5 == 0) {
         if (position == 4) {
             radio.sendNumber(5)
-            basic.showString("You WIN!")
+            basic.showString("YOU WON!")
             control.reset()
         }
         position = position + 1
