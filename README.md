@@ -18,7 +18,7 @@ This is a **head-to-head tug-of-war game** played on BBC micro\:bits. Each playe
 
 ## 🕹️ How to Play
 
-1. Download the latest `.hex` file from [Releases](#)
+1. Download the latest `.hex` file from [Releases](https://github.com/MicahThePro/Radio-Tug-of-War-MicroBit/releases)
 2. Plug in **both** micro\:bits to your computer
 3. Drag and drop the `.hex` file into the **root directory** of both micro\:bits
 4. Wait for flashing to stop — both will show a dot on the screen
@@ -54,7 +54,7 @@ You can even write a **signal test program** to check your range across the scho
 
 ## 📦 Download
 
-[👉 Get the latest `.hex` file here](#)
+[👉 Get the latest `.hex` file here](https://github.com/MicahThePro/Radio-Tug-of-War-MicroBit/releases)
 
 ---
 
